@@ -46,7 +46,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+12) | LCA terms: life cycle assessment, lca, openlca, environmental impact (+20) | ISO 14040/44: no (+0) | Exp 1.6y (+20) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 1.6y (+20)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 1.6y (+10)"
   },
   {
     "id": "anonymized_AA_1793685080195",
@@ -90,7 +90,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.3y (+4) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: wireframing, photoshop, illustrator (+NaN) | UX methods: user research, information architecture, ux, ui/ux (+NaN) | Portfolio: no (+undefined) | Web/UI: typography, accessibility (+NaN) | Exp 0.3y (+3.75)"
+    "designWhy": "Figma: yes (+25) | Tools: wireframing, photoshop, illustrator (+10) | UX methods: user research, information architecture, ux, ui/ux (+25) | Portfolio: no (+0) | Web/UI: typography, accessibility (+7) | Exp 0.3y (+10)"
   },
   {
     "id": "anonymized_AA_1793685080402",
@@ -141,7 +141,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 1.3y (+16) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototype (+NaN) | UX methods: user research, usability testing, usability, user-centered design (+NaN) | Portfolio: no (+undefined) | Web/UI: website, typography, accessibility, high-fidelity (+NaN) | Exp 1.3y (+16.25)"
+    "designWhy": "Figma: yes (+25) | Tools: prototype (+3) | UX methods: user research, usability testing, usability, user-centered design (+25) | Portfolio: no (+0) | Web/UI: website, typography, accessibility, high-fidelity (+10) | Exp 1.3y (+10)"
   },
   {
     "id": "anonymized_AK_1793682784184",
@@ -197,7 +197,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: life cycle assessment, lca, environmental impact (+15) | ISO 14040/44: no (+0) | Exp 5.3y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: yes (+undefined) | Web/UI: website (+NaN) | Exp 5.3y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: yes (+15) | Web/UI: website (+3) | Exp 5.3y (+0)"
   },
   {
     "id": "anonymized_AL_1793685080183",
@@ -248,7 +248,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 5.3y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: adobe xd, framer, prototyping, wireframing (+NaN) | UX methods: usability testing, usability, design thinking, user flow (+NaN) | Portfolio: no (+undefined) | Web/UI: typography (+NaN) | Exp 5.3y (+25)"
+    "designWhy": "Figma: yes (+25) | Tools: adobe xd, framer, prototyping, wireframing (+10) | UX methods: usability testing, usability, design thinking, user flow (+25) | Portfolio: no (+0) | Web/UI: typography (+3) | Exp 5.3y (+0)"
   },
   {
     "id": "anonymized_AN_1793685080356",
@@ -300,7 +300,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.7y (+9) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: framer, prototyping, wireframing (+NaN) | UX methods: usability, user flow, interaction design, ux (+NaN) | Portfolio: no (+undefined) | Web/UI: responsive design, website, accessibility (+NaN) | Exp 0.7y (+8.75)"
+    "designWhy": "Figma: yes (+25) | Tools: framer, prototyping, wireframing (+10) | UX methods: usability, user flow, interaction design, ux (+25) | Portfolio: no (+0) | Web/UI: responsive design, website, accessibility (+10) | Exp 0.7y (+10)"
   },
   {
     "id": "anonymized_APS_1793685080222",
@@ -358,7 +358,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 2.6y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: adobe xd, prototyping, wireframing, photoshop (+NaN) | UX methods: user research, usability, user flow, interaction design (+NaN) | Portfolio: no (+undefined) | Web/UI: website, mockup, mobile app, high-fidelity (+NaN) | Exp 2.6y (+25)"
+    "designWhy": "Figma: yes (+25) | Tools: adobe xd, prototyping, wireframing, photoshop (+10) | UX methods: user research, usability, user flow, interaction design (+25) | Portfolio: no (+0) | Web/UI: website, mockup, mobile app, high-fidelity (+10) | Exp 2.6y (+5)"
   },
   {
     "id": "anonymized_AR_1793685080207",
@@ -407,7 +407,7 @@
       "Experience estimate avvaledu, manual ga check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0y (+0) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: framer, prototyping, wireframing (+NaN) | UX methods: usability, interaction design, ux, ui/ux (+NaN) | Portfolio: no (+undefined) | Web/UI: responsive design, visual design, typography, high-fidelity (+NaN) | Exp 0y (+0)"
+    "designWhy": "Figma: yes (+25) | Tools: framer, prototyping, wireframing (+10) | UX methods: usability, interaction design, ux, ui/ux (+25) | Portfolio: no (+0) | Web/UI: responsive design, visual design, typography, high-fidelity (+10) | Exp 0y (+10)"
   },
   {
     "id": "anonymized_AS_1793685080379",
@@ -459,7 +459,7 @@
       "Experience estimate avvaledu, manual ga check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0y (+0) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: framer (+NaN) | UX methods: user research, usability, information architecture, interaction design (+NaN) | Portfolio: no (+undefined) | Web/UI: design system, typography, accessibility, high-fidelity (+NaN) | Exp 0y (+0)"
+    "designWhy": "Figma: yes (+25) | Tools: framer (+3) | UX methods: user research, usability, information architecture, interaction design (+25) | Portfolio: no (+0) | Web/UI: design system, typography, accessibility, high-fidelity (+10) | Exp 0y (+10)"
   },
   {
     "id": "anonymized_AY_1793685080440",
@@ -505,7 +505,7 @@
       "Experience estimate avvaledu, manual ga check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0y (+0) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: none (+NaN) | UX methods: user research, usability testing, usability, information architecture (+NaN) | Portfolio: no (+undefined) | Web/UI: accessibility, high-fidelity (+NaN) | Exp 0y (+0)"
+    "designWhy": "Figma: yes (+25) | Tools: none (+0) | UX methods: user research, usability testing, usability, information architecture (+25) | Portfolio: no (+0) | Web/UI: accessibility, high-fidelity (+7) | Exp 0y (+10)"
   },
   {
     "id": "anonymized_BA_1793682784206",
@@ -546,7 +546,7 @@
       "JD keywords emi dorakaledu, resume format check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 2.3y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 2.3y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 2.3y (+5)"
   },
   {
     "id": "anonymized_BS_1793685080461",
@@ -593,7 +593,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 3.7y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: framer, prototyping, wireframing (+NaN) | UX methods: user research, ux, ui/ux (+NaN) | Portfolio: no (+undefined) | Web/UI: website, high-fidelity (+NaN) | Exp 3.7y (+25)"
+    "designWhy": "Figma: yes (+25) | Tools: framer, prototyping, wireframing (+10) | UX methods: user research, ux, ui/ux (+19) | Portfolio: no (+0) | Web/UI: website, high-fidelity (+7) | Exp 3.7y (+5)"
   },
   {
     "id": "anonymized_CG_1793685080278",
@@ -648,7 +648,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.3y (+4) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototype, prototyping, wireframing, photoshop (+NaN) | UX methods: user research, usability testing, usability, user-centered design (+NaN) | Portfolio: no (+undefined) | Web/UI: web design, design system, visual design, accessibility (+NaN) | Exp 0.3y (+3.75)"
+    "designWhy": "Figma: yes (+25) | Tools: prototype, prototyping, wireframing, photoshop (+10) | UX methods: user research, usability testing, usability, user-centered design (+25) | Portfolio: no (+0) | Web/UI: web design, design system, visual design, accessibility (+10) | Exp 0.3y (+10)"
   },
   {
     "id": "anonymized_CM_1793685080412",
@@ -697,7 +697,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 4y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototyping, wireframing (+NaN) | UX methods: user-centered design, design thinking, information architecture, ux research (+NaN) | Portfolio: no (+undefined) | Web/UI: design system, visual design, typography, accessibility (+NaN) | Exp 4y (+25)"
+    "designWhy": "Figma: yes (+25) | Tools: prototyping, wireframing (+7) | UX methods: user-centered design, design thinking, information architecture, ux research (+25) | Portfolio: no (+0) | Web/UI: design system, visual design, typography, accessibility (+10) | Exp 4y (+5)"
   },
   {
     "id": "anonymized_DP_1793685080247",
@@ -742,7 +742,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 2.4y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: yes (+undefined) | Tools: sketch, prototyping, wireframing (+NaN) | UX methods: user-centered design, ux, ui/ux (+NaN) | Portfolio: no (+undefined) | Web/UI: design system, high-fidelity (+NaN) | Exp 2.4y (+25)"
+    "designWhy": "Figma: yes (+25) | Tools: sketch, prototyping, wireframing (+10) | UX methods: user-centered design, ux, ui/ux (+19) | Portfolio: no (+0) | Web/UI: design system, high-fidelity (+7) | Exp 2.4y (+5)"
   },
   {
     "id": "anonymized_DS_1793685080257",
@@ -790,7 +790,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 1.2y (+15) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: framer, prototyping, wireframing, photoshop (+NaN) | UX methods: usability testing, usability, interaction design, ux research (+NaN) | Portfolio: yes (+undefined) | Web/UI: none (+NaN) | Exp 1.2y (+15)"
+    "designWhy": "Figma: yes (+25) | Tools: framer, prototyping, wireframing, photoshop (+10) | UX methods: usability testing, usability, interaction design, ux research (+25) | Portfolio: yes (+15) | Web/UI: none (+0) | Exp 1.2y (+10)"
   },
   {
     "id": "anonymized_DVJ_1793685080268",
@@ -842,7 +842,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.5y (+6) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototype, prototyping, wireframing (+NaN) | UX methods: user research, usability testing, usability, information architecture (+NaN) | Portfolio: no (+undefined) | Web/UI: website, design system, accessibility, high-fidelity (+NaN) | Exp 0.5y (+6.25)"
+    "designWhy": "Figma: yes (+25) | Tools: prototype, prototyping, wireframing (+10) | UX methods: user research, usability testing, usability, information architecture (+25) | Portfolio: no (+0) | Web/UI: website, design system, accessibility, high-fidelity (+10) | Exp 0.5y (+10)"
   },
   {
     "id": "anonymized_FK_1793685080451",
@@ -897,7 +897,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 3.5y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: framer, prototyping, wireframing, photoshop (+NaN) | UX methods: usability, information architecture, interaction design, ux research (+NaN) | Portfolio: no (+undefined) | Web/UI: website, design system, mobile app, high-fidelity (+NaN) | Exp 3.5y (+25)"
+    "designWhy": "Figma: yes (+25) | Tools: framer, prototyping, wireframing, photoshop (+10) | UX methods: usability, information architecture, interaction design, ux research (+25) | Portfolio: no (+0) | Web/UI: website, design system, mobile app, high-fidelity (+10) | Exp 3.5y (+5)"
   },
   {
     "id": "anonymized_FT_1793685080301",
@@ -946,7 +946,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.4y (+5) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototyping, wireframing (+NaN) | UX methods: usability, information architecture, interaction design, ux (+NaN) | Portfolio: no (+undefined) | Web/UI: visual design (+NaN) | Exp 0.4y (+5)"
+    "designWhy": "Figma: yes (+25) | Tools: prototyping, wireframing (+7) | UX methods: usability, information architecture, interaction design, ux (+25) | Portfolio: no (+0) | Web/UI: visual design (+3) | Exp 0.4y (+10)"
   },
   {
     "id": "anonymized_HD_1793682784275",
@@ -993,7 +993,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: lca, carbon footprint (+10) | ISO 14040/44: no (+0) | Exp 3.4y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 3.4y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 3.4y (+5)"
   },
   {
     "id": "anonymized_HM_1793682784257",
@@ -1038,7 +1038,7 @@
     "label": "LCA",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: simapro (+25) | LCA terms: life cycle assessment, lca, environmental impact (+15) | ISO 14040/44: no (+0) | Exp 3.9y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: usability (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 3.9y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: usability (+6) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 3.9y (+5)"
   },
   {
     "id": "anonymized_KA_1793682784307",
@@ -1079,7 +1079,7 @@
       "JD keywords emi dorakaledu, resume format check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 2.6y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 2.6y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 2.6y (+5)"
   },
   {
     "id": "anonymized_KN_1793685080310",
@@ -1125,7 +1125,7 @@
       "Experience estimate avvaledu, manual ga check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0y (+0) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototyping, wireframing (+NaN) | UX methods: user-centered design, ux research, ux, ui/ux (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 0y (+0)"
+    "designWhy": "Figma: yes (+25) | Tools: prototyping, wireframing (+7) | UX methods: user-centered design, ux research, ux, ui/ux (+25) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 0y (+10)"
   },
   {
     "id": "anonymized_MI_1793685080235",
@@ -1180,7 +1180,7 @@
       "Experience estimate avvaledu, manual ga check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0y (+0) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: framer, prototyping, wireframing, illustrator (+NaN) | UX methods: usability testing, usability, information architecture, ux (+NaN) | Portfolio: yes (+undefined) | Web/UI: visual design (+NaN) | Exp 0y (+0)"
+    "designWhy": "Figma: yes (+25) | Tools: framer, prototyping, wireframing, illustrator (+10) | UX methods: usability testing, usability, information architecture, ux (+25) | Portfolio: yes (+15) | Web/UI: visual design (+3) | Exp 0y (+10)"
   },
   {
     "id": "anonymized_MM_1793685080338",
@@ -1230,7 +1230,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.1y (+1) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototyping, wireframing (+NaN) | UX methods: user research, usability, user-centered design, information architecture (+NaN) | Portfolio: no (+undefined) | Web/UI: responsive design, website, visual design, typography (+NaN) | Exp 0.1y (+1.25)"
+    "designWhy": "Figma: yes (+25) | Tools: prototyping, wireframing (+7) | UX methods: user research, usability, user-centered design, information architecture (+25) | Portfolio: no (+0) | Web/UI: responsive design, website, visual design, typography (+10) | Exp 0.1y (+10)"
   },
   {
     "id": "anonymized_MS_1793682784442",
@@ -1287,7 +1287,7 @@
       "Experience estimate avvaledu, manual ga check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: simapro (+25) | LCA terms: life cycle assessment, lca, life cycle inventory, lci (+20) | ISO 14040/44: no (+0) | Exp 0y (+0) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 0y (+0)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 0y (+10)"
   },
   {
     "id": "anonymized_NA_1793682784346",
@@ -1330,7 +1330,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: life cycle assessment, carbon footprint (+10) | ISO 14040/44: no (+0) | Exp 1.7y (+21) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 1.7y (+21.25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 1.7y (+10)"
   },
   {
     "id": "anonymized_NF_1793685080347",
@@ -1380,7 +1380,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.3y (+4) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototyping, wireframing (+NaN) | UX methods: user research, usability, user-centered design, design thinking (+NaN) | Portfolio: no (+undefined) | Web/UI: website (+NaN) | Exp 0.3y (+3.75)"
+    "designWhy": "Figma: yes (+25) | Tools: prototyping, wireframing (+7) | UX methods: user research, usability, user-centered design, design thinking (+25) | Portfolio: no (+0) | Web/UI: website (+3) | Exp 0.3y (+10)"
   },
   {
     "id": "anonymized_NP_1793682784325",
@@ -1432,7 +1432,7 @@
     "label": "LCA",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: gabi/simapro (+25) | LCA terms: life cycle assessment, lca, openlca, ecoinvent (+20) | ISO 14040/44: no (+0) | Exp 2.8y (+25) | EPD: yes (+8) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 2.8y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 2.8y (+5)"
   },
   {
     "id": "anonymized_N_1793685080389",
@@ -1481,7 +1481,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 1.3y (+16) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototyping, wireframing (+NaN) | UX methods: usability, user experience, ux, ui/ux (+NaN) | Portfolio: no (+undefined) | Web/UI: responsive design, typography, high-fidelity (+NaN) | Exp 1.3y (+16.25)"
+    "designWhy": "Figma: yes (+25) | Tools: prototyping, wireframing (+7) | UX methods: usability, user experience, ux, ui/ux (+25) | Portfolio: no (+0) | Web/UI: responsive design, typography, high-fidelity (+10) | Exp 1.3y (+10)"
   },
   {
     "id": "anonymized_PD_1793682784400",
@@ -1526,7 +1526,7 @@
       "JD keywords emi dorakaledu, resume format check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 4.3y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: yes (+undefined) | Web/UI: none (+NaN) | Exp 4.3y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: yes (+15) | Web/UI: none (+0) | Exp 4.3y (+0)"
   },
   {
     "id": "anonymized_PKG_1793682784369",
@@ -1573,7 +1573,7 @@
       "Experience estimate avvaledu, manual ga check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: life cycle analysis, environmental impact (+10) | ISO 14040/44: no (+0) | Exp 0y (+0) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 0y (+0)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 0y (+10)"
   },
   {
     "id": "anonymized_PL_1793685080319",
@@ -1623,7 +1623,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.3y (+4) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: adobe xd, sketch (+NaN) | UX methods: user research, design thinking, persona, user experience (+NaN) | Portfolio: no (+undefined) | Web/UI: high-fidelity (+NaN) | Exp 0.3y (+3.75)"
+    "designWhy": "Figma: yes (+25) | Tools: adobe xd, sketch (+7) | UX methods: user research, design thinking, persona, user experience (+25) | Portfolio: no (+0) | Web/UI: high-fidelity (+3) | Exp 0.3y (+10)"
   },
   {
     "id": "anonymized_PS_1793682784387",
@@ -1666,7 +1666,7 @@
     "label": "Neither / Uncertain",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 3.3y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: design thinking (+NaN) | Portfolio: yes (+undefined) | Web/UI: none (+NaN) | Exp 3.3y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: design thinking (+6) | Portfolio: yes (+15) | Web/UI: none (+0) | Exp 3.3y (+5)"
   },
   {
     "id": "anonymized_PV_1793685080171",
@@ -1712,7 +1712,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0.2y (+3) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: prototyping, wireframing, photoshop, illustrator (+NaN) | UX methods: user research, ux, ux/ui (+NaN) | Portfolio: no (+undefined) | Web/UI: accessibility (+NaN) | Exp 0.2y (+2.5)"
+    "designWhy": "Figma: yes (+25) | Tools: prototyping, wireframing, photoshop, illustrator (+10) | UX methods: user research, ux, ux/ui (+19) | Portfolio: no (+0) | Web/UI: accessibility (+3) | Exp 0.2y (+10)"
   },
   {
     "id": "anonymized_PW_1793682784228",
@@ -1762,7 +1762,7 @@
     "label": "LCA",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: gabi (+25) | LCA terms: life cycle assessment, life cycle analysis, lca, life cycle inventory (+20) | ISO 14040/44: no (+0) | Exp 6.9y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 6.9y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 6.9y (+0)"
   },
   {
     "id": "anonymized_PW_1793685080367",
@@ -1809,7 +1809,7 @@
     "label": "UI/UX",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 1.1y (+14) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: yes (+undefined) | Tools: adobe xd (+NaN) | UX methods: usability, user-centered design, design thinking, information architecture (+NaN) | Portfolio: no (+undefined) | Web/UI: visual design, high-fidelity (+NaN) | Exp 1.1y (+13.750000000000002)"
+    "designWhy": "Figma: yes (+25) | Tools: adobe xd (+3) | UX methods: usability, user-centered design, design thinking, information architecture (+25) | Portfolio: no (+0) | Web/UI: visual design, high-fidelity (+7) | Exp 1.1y (+10)"
   },
   {
     "id": "anonymized_RR_1793682784428",
@@ -1858,7 +1858,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+12) | LCA terms: life cycle assessment, lca, life cycle inventory, openlca (+20) | ISO 14040/44: no (+0) | Exp 0.4y (+5) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 0.4y (+5)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 0.4y (+10)"
   },
   {
     "id": "anonymized_RS_1793682784414",
@@ -1910,7 +1910,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: life cycle assessment, lca (+10) | ISO 14040/44: no (+0) | Exp 4.9y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 4.9y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 4.9y (+0)"
   },
   {
     "id": "anonymized_SRK_1793682784455",
@@ -1957,7 +1957,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+12) | LCA terms: life cycle assessment, lca, openlca, environmental impact (+20) | ISO 14040/44: no (+0) | Exp 7.1y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 7.1y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 7.1y (+0)"
   },
   {
     "id": "anonymized_SS_1793682784470",
@@ -2007,7 +2007,7 @@
     "label": "LCA",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: gabi/simapro (+25) | LCA terms: life cycle assessment, lca, openlca, ecoinvent (+20) | ISO 14040/44: no (+0) | Exp 1.3y (+16) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 1.3y (+16.25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 1.3y (+10)"
   },
   {
     "id": "anonymized_SS_1793682784484",
@@ -2055,7 +2055,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+12) | LCA terms: life cycle assessment, lca, openlca, environmental impact (+20) | ISO 14040/44: no (+0) | Exp 3.2y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 3.2y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 3.2y (+5)"
   },
   {
     "id": "anonymized_TM_1793682784495",
@@ -2103,7 +2103,7 @@
     "label": "LCA",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: simapro (+25) | LCA terms: life cycle assessment, lca, carbon footprint, environmental impact (+20) | ISO 14040/44: no (+0) | Exp 3.7y (+25) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 3.7y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 3.7y (+5)"
   },
   {
     "id": "anonymized_UI_1793682784506",
@@ -2146,7 +2146,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: lca (+5) | ISO 14040/44: no (+0) | Exp 3.2y (+25) | EPD: yes (+8) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 3.2y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 3.2y (+5)"
   },
   {
     "id": "anonymized_VG_1793682784531",
@@ -2195,7 +2195,7 @@
       "LCA match, kani GaBi/SimaPro (must-have) kanapadaledu"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+12) | LCA terms: openlca (+5) | ISO 14040/44: no (+0) | Exp 7.1y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: high-fidelity (+NaN) | Exp 7.1y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: high-fidelity (+3) | Exp 7.1y (+0)"
   },
   {
     "id": "anonymized_VM_1793682784520",
@@ -2238,7 +2238,7 @@
     "label": "LCA",
     "flags": [],
     "lcaWhy": "GaBi/SimaPro: gabi (+25) | LCA terms: lca, openlca (+10) | ISO 14040/44: no (+0) | Exp 6.4y (+25) | EPD: no (+0) | Env. education: yes (+7)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: yes (+undefined) | Web/UI: none (+NaN) | Exp 6.4y (+25)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: yes (+15) | Web/UI: none (+0) | Exp 6.4y (+0)"
   },
   {
     "id": "anonymized_resume_1793685080327",
@@ -2272,6 +2272,6 @@
       "JD keywords emi dorakaledu, resume format check cheyyandi"
     ],
     "lcaWhy": "GaBi/SimaPro: no (+0) | LCA terms: none (+0) | ISO 14040/44: no (+0) | Exp 0y (+0) | EPD: no (+0) | Env. education: no (+0)",
-    "designWhy": "Figma: no (+undefined) | Tools: none (+NaN) | UX methods: none (+NaN) | Portfolio: no (+undefined) | Web/UI: none (+NaN) | Exp 0y (+0)"
+    "designWhy": "Figma: no (+0) | Tools: none (+0) | UX methods: none (+0) | Portfolio: no (+0) | Web/UI: none (+0) | Exp 0y (+10)"
   }
 ]

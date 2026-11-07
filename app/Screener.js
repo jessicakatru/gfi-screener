@@ -2,7 +2,7 @@
 import { useState, useMemo, Fragment } from "react";
 
 const ROLES = {
-  lca: { title: "LCA Role (4-6 yrs)", key: "lcaScore", why: "lcaWhy", skills: "lca" },
+  lca: { title: "LCA Consultant (2-6 yrs)", key: "lcaScore", why: "lcaWhy", skills: "lca" },
   design: { title: "UI/UX Design Internship", key: "designScore", why: "designWhy", skills: "design" },
 };
 
